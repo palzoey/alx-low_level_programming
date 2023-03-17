@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - main point
+ * main - possible combinations of single digits
  *
  * Result: Always 0
  */
