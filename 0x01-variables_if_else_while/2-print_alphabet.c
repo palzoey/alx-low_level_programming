@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - alphabet in lowercase
- * 
+ * main - main function
+ *
  * Return: Always 0 (Success)
  */
 
